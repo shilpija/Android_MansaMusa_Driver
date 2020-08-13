@@ -9,8 +9,4 @@ Mansa Musa Delivery application will be used by the authority of Mansa Musa FZE 
 
 ## Feature
 
-![1](https://user-images.githubusercontent.com/23313088/90128220-2e464480-dd84-11ea-88cc-1df7b3c775ae.png)
-![3](https://user-images.githubusercontent.com/23313088/90128250-38684300-dd84-11ea-91e0-0622187fc0b5.png)
-![4](https://user-images.githubusercontent.com/23313088/90128266-4027e780-dd84-11ea-8355-9bedfe7c0ad5.png)
-![5](https://user-images.githubusercontent.com/23313088/90128288-49b14f80-dd84-11ea-9222-222d47278241.png)
-![6](https://user-images.githubusercontent.com/23313088/90128312-546be480-dd84-11ea-8af2-661e3777c509.png)
+
