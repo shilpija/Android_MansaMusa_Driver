@@ -8,11 +8,10 @@ Mansa Musa Delivery application is a system which will be used to support the op
 Mansa Musa Delivery application will be used by the authority of Mansa Musa FZE which can give the access for the drivers to log in and start doing the operations jobs. Mansa Musa Deliver app will give the tracking map for the customers and suppliers of the Mansa Musa.
 ## Features
 
-![Screenshot_20200813-163920](https://user-images.githubusercontent.com/23313088/90129419-3dc68d00-dd86-11ea-8244-326bd7dc4085.jpg
-![Screenshot_20200813-163937](https://user-images.githubusercontent.com/23313088/90129514-6c446800-dd86-11ea-8b3d-34501746e404.jpg)
-![Screenshot_20200813-163910](https://user-images.githubusercontent.com/23313088/90129596-8bdb9080-dd86-11ea-9d09-9da51afbb8fe.jpg)
-![Screenshot_20200813-163920](https://user-images.githubusercontent.com/23313088/90129663-add51300-dd86-11ea-9928-3f2c2cc766f6.jpg)
-
+<img src="https://user-images.githubusercontent.com/23313088/90129419-3dc68d00-dd86-11ea-8244-326bd7dc4085.jpg" width="360" height="640">
+<img src="https://user-images.githubusercontent.com/23313088/90129514-6c446800-dd86-11ea-8b3d-34501746e404.jpg" width="360" height="640">
+<img src="https://user-images.githubusercontent.com/23313088/90129596-8bdb9080-dd86-11ea-9d09-9da51afbb8fe.jpg" width="360" height="640">
+<img src="https://user-images.githubusercontent.com/23313088/90129663-add51300-dd86-11ea-9928-3f2c2cc766f6.jpg" width="360" height="640">
 
 ## Imported Library and Framework
   * Retrofit networking library
