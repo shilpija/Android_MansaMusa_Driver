@@ -33,3 +33,20 @@ Mansamusa delivery app works with android 4.4 and support latest version of andr
 * android  4.4/api level 19 or above
 * android studio 3.6.3 and above
 * Java
+
+Building
+========
+To build you will need:
+
+ * A Java compiler compatible with Java 1.8
+ * The Android SDK with platform 26 installed
+ 
+ 
+ Building with Android Studio
+---------------------
+You can also build with Android Studio by importing this project into it.
+
+
+Documentation
+=============
+Javadocs can be generated using `gradle javadoc` or `ant doc`
