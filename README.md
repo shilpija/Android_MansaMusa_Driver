@@ -54,4 +54,4 @@ You can also build with Android Studio by importing this project into it.
 
 Documentation
 =============
-Javadocs can be generated using `gradle javadoc` or `ant doc`
+Javadocs can be generated using `gradle javadoc` or `android doc`
