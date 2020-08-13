@@ -12,32 +12,25 @@ Mansa Musa Delivery application will be used by the authority of Mansa Musa FZE 
 ![Screenshot_20200813-163937](https://user-images.githubusercontent.com/23313088/90129514-6c446800-dd86-11ea-8b3d-34501746e404.jpg)
 ![Screenshot_20200813-163910](https://user-images.githubusercontent.com/23313088/90129596-8bdb9080-dd86-11ea-9d09-9da51afbb8fe.jpg)
 ![Screenshot_20200813-163920](https://user-images.githubusercontent.com/23313088/90129663-add51300-dd86-11ea-9928-3f2c2cc766f6.jpg)
-![Screenshot 2020-08-12 at 11 48 23 PM](https://user-images.githubusercontent.com/59743259/90052486-d4e40400-dcf6-11ea-8729-aab5cdaf68bb.png)
 
-## Imported Frameworks
+
+## Imported Library and Framework
   * Retrofit networking library
   * OKhttp 
   * Butterknife for data binding
   * OKhttp intercepter
-  * GooglePlaces
-  * GooglePlacePicker
+  * Google Loaction API
+  * Google Place API
   * GoogleMaps
   * picasso Image library
-  * MPAndroidChart
   * Glide Image library
-  * Fabric
-  * Crashlytics
-  * Joda time library
   * Firebase/Auth
   * Firebase/Core
-  * Firebase/Storage
-  * Firebase/Database
   * Firebase/Messaging
-  * Firebase/deep linking for share app link
-  * GoogleSignIn
-  * Zxing library for scanner
+  * Third party Library for Signature(com.kyanogen.signatureview)
+  
 ## Requirements
-Mansamusa works with android 5.0 and support latest version of android. To use Mansamusa with a project targeting android pie or api level 28, you must include all java  files directly in your project.
-* android  5.0/api level 21 or above
+Mansamusa delivery app works with android 4.4 and support latest version of android. To use Mansamusa delivery with a project targeting android Android 10 or api level 29, you must include all java  files directly in your project.
+* android  4.4/api level 19 or above
 * android studio 3.6.3 and above
 * Java
