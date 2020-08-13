@@ -33,6 +33,11 @@ Mansamusa delivery app works with android 4.4 and support latest version of andr
 * android  4.4/api level 19 or above
 * android studio 3.6.3 and above
 * Java
+- JDK 8
+- Latest Android SDK tools
+- Latest Android platform tools
+- Android SDK 28
+- AndroidX
 
 Building
 ========
